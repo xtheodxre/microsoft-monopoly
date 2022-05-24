@@ -1,31 +1,124 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/png" href="microsoft logo.png">
-    <title>
-      MicroMono - Home
-    </title>
-  </head>
-  <body id="index_body">
-    <ul id="micro_navbar"><b>
-      <li class="micro_li"><a class="active" href="index.html">Home</a></li>
-      <li class="micro_li"><a href="github.html">GitHub</a></li>
-      <li class="micro_li"><a href="skype.html">Skype</a></li>
-      <li class="micro_li"><a href="mojang.html">Mojang</a></li> 
-      </b></ul>
-    <div id="microsoft_container">
-    <img src="microsoft logo.png" alt="microsoft.png" id="microsoft_logo">
-    </div>
-    <h1 id="main_page_header">
-      <u>Microsoft's Most Known Companies</u>
-    </h1>
-    <hr>
-    <p><b>
-      In 1975, Bill Gates founded a company named Microsoft. They started with the Altair 8800, the first ever microcomputer. 
-      </b></p>
-    <p><b>
-      Microsoft is a huge monopoly company. Owning way too many companies to count, there are a few bigger ones including Github, Skype, and Mojang. 
-    </b></p>
-  </body>
-</html>
+#main_page_header {
+  font-family: Open-Sans, sans-serif; 
+  font-size: 60px;
+  text-align: center;
+  padding: 20px;
+  color: #f44336;
+}
+
+#microsoft_logo {
+  height: 155px;
+}
+
+#microsoft_container {
+  text-align: center;
+  padding-top: 30px;
+}
+
+#index_body {
+  background-image: radial-gradient(#0057ff, #0095ff)
+}
+
+#micro_navbar {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #4caf50;
+  border-radius: 10px;
+}
+
+li {
+  float: left;
+  font-size: 20px;
+  font-family: Open-Sans, sans-serif;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px; 
+  text-decoration: none;
+}
+
+p {
+  font-size: 25px;
+  color: #ffc106;
+  font-family: Open-Sans, sans-serif;
+  text-align: center;
+  padding-top: 40px;
+}
+
+hr {
+  width: 75%;
+}
+
+#skype_img {
+  height: 400px
+}
+
+#skype_contain {
+  text-align: center;
+}
+
+#skype_navbar {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #59a7ff;
+  border-radius: 10px;
+}
+
+#mojang_navbar {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #da1e29;
+  border-radius: 10px;
+}
+
+#mojang_contain {
+  text-align: center;
+}
+
+#mojang_img {
+  height: 140px;
+  padding-top: 30px;
+}
+
+#github_img {
+  height: 300px;
+  padding-top: 30px;
+}
+
+#github_contain {
+  text-align: center;
+}
+
+#github_navbar {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #1b1f23;
+  border-radius: 10px;
+}
+
+.micro_li:hover {
+  background-color: #388f4d;
+}
+
+.mojang_li:hover {
+  background-color: #bf131d;
+}
+
+.skype_li:hover {
+  background-color: #5292e0
+}
+
+.github_li:hover {
+  background-color: #0f1114;
+}
