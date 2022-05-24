@@ -42,10 +42,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
-  background-color: #5090d9;
-}
-
 p {
   font-size: 25px;
   color: #ffc106;
@@ -112,5 +108,9 @@ hr {
 }
 
 .micro_li:hover {
-  background-color: 
+  background-color: #388f4d;
+}
+
+.mojang_li:hover {
+  background-color: #bf131d;
 }
