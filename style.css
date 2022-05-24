@@ -85,7 +85,7 @@ hr {
 }
 
 #mojang_img {
-  height: 190px;
+  height: 140px;
   padding-top: 30px;
 }
 
@@ -120,5 +120,5 @@ hr {
 }
 
 .github_li:hover {
-  background-color: #101216;
+  background-color: #0f1114;
 }
