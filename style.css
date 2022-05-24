@@ -15,7 +15,7 @@
   padding-top: 30px;
 }
 
-body {
+#index_body {
   background-image: radial-gradient(#0057ff, #0095ff)
 }
 
@@ -43,7 +43,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #519744;
+  background-color: #5090d9;
 }
 
 p {
@@ -56,4 +56,21 @@ p {
 
 hr {
   width: 75%;
+}
+
+#skype_img {
+  height: 400px
+}
+
+#skype_contain {
+  text-align: center;
+}
+
+#skype_navbar {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #59a7ff;
+  border-radius: 10px;
 }
