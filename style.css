@@ -74,3 +74,20 @@ hr {
   background-color: #59a7ff;
   border-radius: 10px;
 }
+
+#mojang_navbar {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #da1e29;
+  border-radius: 10px;
+}
+
+#mojang_contain {
+  text-align: center;
+}
+
+#mojang_img {
+  height: 190px;
+}
