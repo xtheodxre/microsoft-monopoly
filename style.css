@@ -8,16 +8,17 @@
 }
 
 #microsoft_logo {
-  height: 200px;
+  height: 100px;
 }
 
 #microsoft_container {
   text-align: center;
-  padding-top: 20px;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
 #index_body {
-  background-color: #373c3e;
+  background-color: #ffffff;
 }
 
 #micro_navbar {
