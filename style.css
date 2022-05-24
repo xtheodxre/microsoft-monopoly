@@ -25,6 +25,7 @@ ul {
   padding: 0px;
   overflow: hidden;
   background-color: #757575;
+  border-radius: 10px;
 }
 
 li {
