@@ -3,11 +3,11 @@
   font-size: 60px;
   text-align: center;
   padding: 20px;
-  color: #757575;
+  color: #f44336;
 }
 
 #microsoft_logo {
-  height: 100px;
+  height: 155px;
 }
 
 #microsoft_container {
@@ -16,7 +16,7 @@
 }
 
 body {
-  background-image: radial-gradient(#0057ff, #007eff)
+  background-image: radial-gradient(#0057ff, #0095ff)
 }
 
 ul {
@@ -24,7 +24,7 @@ ul {
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-  background-color: #757575;
+  background-color: #4caf50;
   border-radius: 10px;
 }
 
@@ -43,12 +43,12 @@ li a {
 }
 
 li a:hover {
-  background-color: #696969;
+  background-color: #519744;
 }
 
 p {
   font-size: 25px;
-  color: #757575;
+  color: #ffc106;
   font-family: Open-Sans, sans-serif;
   text-align: center;
   padding-top: 40px;
