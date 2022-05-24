@@ -134,3 +134,19 @@ hr {
   text-align: left;
   padding-top: 40px;
 }
+
+.active {
+  background-color: #39923d
+}
+
+#skype_active {
+  background-color: #5399e8;
+}
+
+#mojang_active {
+  background-color: #be121c;
+}
+
+#github_active {
+  background-color: #33393f;
+}
