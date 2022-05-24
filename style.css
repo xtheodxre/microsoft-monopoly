@@ -1,0 +1,58 @@
+#main_page_header {
+  font-family: Open-Sans, sans-serif; 
+  font-size: 60px;
+  text-align: center;
+  padding: 20px;
+  color: #757575;
+}
+
+#microsoft_logo {
+  height: 100px;
+}
+
+#microsoft_container {
+  text-align: center;
+  padding-top: 30px;
+}
+
+body {
+  background-color: #FBFBFF;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #757575;
+}
+
+li {
+  float: left;
+  font-size: 20px;
+  font-family: Open-Sans, sans-serif;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px; 
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #696969;
+}
+
+p {
+  font-size: 25px;
+  color: #757575;
+  font-family: Open-Sans, sans-serif;
+  text-align: center;
+  padding-top: 40px;
+}
+
+hr {
+  width: 75%;
+}
