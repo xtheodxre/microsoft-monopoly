@@ -2,21 +2,22 @@
   font-family: Open-Sans, sans-serif; 
   font-size: 60px;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   color: #f44336;
+  padding-top: 0px;
 }
 
 #microsoft_logo {
-  height: 155px;
+  height: 200px;
 }
 
 #microsoft_container {
   text-align: center;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 #index_body {
-  background-image: radial-gradient(#0057ff, #0095ff)
+  background-color: #373c3e;
 }
 
 #micro_navbar {
