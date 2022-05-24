@@ -92,3 +92,21 @@ hr {
   height: 190px;
   padding-top: 30px;
 }
+
+#github_img {
+  height: 300px;
+  padding-top: 30px;
+}
+
+#github_contain {
+  text-align: center;
+}
+
+#github_navbar {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #1b1f23;
+  border-radius: 10px;
+}
