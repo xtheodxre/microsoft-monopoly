@@ -44,11 +44,12 @@ li a {
   text-decoration: none;
 }
 
-p {
+.index_p {
   font-size: 25px;
   color: #ffc106;
   font-family: Open-Sans, sans-serif;
-  text-align: center;
+  text-align: left;
+  padding-bottom: 20px;
   padding-top: 40px;
 }
 
@@ -94,6 +95,7 @@ hr {
 #github_img {
   height: 300px;
   padding-top: 30px;
+  padding-bottom: 45px;
 }
 
 #github_contain {
@@ -123,4 +125,12 @@ hr {
 
 .github_li:hover {
   background-color: #0f1114;
+}
+
+.github_p {
+  font-size: 25px;
+  color: #182e3b;
+  font-family: Open-Sans, sans-serif;
+  text-align: left;
+  padding-top: 40px;
 }
