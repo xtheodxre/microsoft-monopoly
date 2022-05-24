@@ -19,7 +19,7 @@
   background-image: radial-gradient(#0057ff, #0095ff)
 }
 
-ul {
+#micro_navbar {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
@@ -109,4 +109,8 @@ hr {
   overflow: hidden;
   background-color: #1b1f23;
   border-radius: 10px;
+}
+
+.micro_li:hover {
+  background-color: 
 }
