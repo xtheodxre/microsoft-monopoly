@@ -50,7 +50,7 @@ li a {
   font-family: Open-Sans, sans-serif;
   text-align: left;
   padding-bottom: 20px;
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 hr {
@@ -149,4 +149,32 @@ hr {
 
 #github_active {
   background-color: #33393f;
+}
+
+.index_h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 40px;
+  font-family: Open-Sans, sans-serif;
+  color: #00adef;
+  padding-top: 20px;
+}
+
+.index_link {
+  font-size: 25px;
+  color: #ffc106;
+  font-family: Open-Sans, sans-serif;
+  text-align: left;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#info_id {
+  text-align: center;
+  margin: auto;
+}
+
+#companies_id {
+  text-align: center;
+  white-space: pre-line;
 }
