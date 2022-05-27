@@ -157,7 +157,7 @@ hr {
   font-size: 40px;
   font-family: Open-Sans, sans-serif;
   color: #00adef;
-  padding-top: 20px;
+  padding-top: 0px;
   letter-spacing: normal;
 }
 
@@ -171,12 +171,12 @@ hr {
 }
 
 #info_id {
-  text-align: center;
+  text-align: left;
   height: 100px;
 }
 
 #companies_id {
-  text-align: center;
+  text-align: left;
+  height: 150px;
   white-space: pre-line;
-  height: 100px;
 }
